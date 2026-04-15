@@ -195,7 +195,6 @@ header {
     font-weight: 400;
     letter-spacing: 3px;
     margin-bottom: 15px;
-    text-transform: uppercase;
     text-shadow: var(--text-shadow);
 }
 
